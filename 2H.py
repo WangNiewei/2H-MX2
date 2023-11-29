@@ -1,5 +1,5 @@
 #2023-11-29 wnw,The codes only applies to Monolayer to bilayer 2H-MX2,and thanks for the help of Xiao-Huan,Lv.
-# before begin,you must the POSCAR of Monolayer 2H MX2
+# before begin,you must prepare the POSCAR of Monolayer 2H MX2 (M=Mo,X=S,Se2:)
 
 
 import numpy as np
